@@ -1,1 +1,2 @@
-# information-retrieval-system
+# End-to-end Generative AI Project with LangChain, LLMs, VectorDB & Streamlit
+
